@@ -1,6 +1,6 @@
 body
 {
-    background-color: gray;
+    background-color:gray ;
     color: white;
     font-family: Arial;
     font-size: 20px;
@@ -8,5 +8,7 @@ body
 }
 #can
 {
+    border: white 10px solid;
+    border-radius: 25px;
     background-color: white;
 }
